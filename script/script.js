@@ -21,7 +21,7 @@ while(repeat) {
   var UI_2 = true;
   while(UI_2 <= 3) {
     var computerInput2 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput2 = prompt('MASUKAN ANGKA PIN KEDUA (1-9)\n\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
+    var userInput2 = prompt('MASUKAN ANGKA PIN KEDUA (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
     if (userInput2 == computerInput2) {
       UI_2 = alert('JAWABAN KAMU BENAR! Kamu akan lanjut ke stage berikutnya');
     } else if (userInput2 != computerInput2) {
@@ -32,7 +32,7 @@ while(repeat) {
   var UI_3 = true;
   while(UI_3 <= 3) {
     var computerInput3 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput3 = prompt('MASUKAN ANGKA PIN KETIGA (1-9)\n\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
+    var userInput3 = prompt('MASUKAN ANGKA PIN KETIGA (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
     if (userInput3 == computerInput3) {
       UI_3 = alert('JAWABAN KAMU BENAR! Kamu akan lanjut ke stage berikutnya');
     } else if (userInput3 != computerInput3) {
@@ -43,7 +43,7 @@ while(repeat) {
   var UI_4 = true;
   while(UI_4 <= 3) {
     var computerInput4 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput4 = prompt('MASUKAN ANGKA PIN KEEMPAT (1-9)\n\nNOTE : MASUKAN HANYA ANGKA!  & Kamu punya 3 kesempatan');
+    var userInput4 = prompt('MASUKAN ANGKA PIN KEEMPAT (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA!  & Kamu punya 3 kesempatan');
     if (userInput4 == computerInput4) {
       UI_4 = alert('JAWABAN KAMU BENAR! Kamu akan lanjut ke stage berikutnya');
     } else if (userInput4 != computerInput4) {
@@ -54,7 +54,7 @@ while(repeat) {
   var UI_5 = true;
   while(UI_5 <= 3) {
     var computerInput5 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput5 = prompt('MASUKAN ANGKA PIN KELIMA (1-9)\n\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
+    var userInput5 = prompt('MASUKAN ANGKA PIN KELIMA (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
     if (userInput5 == computerInput5) {
       UI_5 = alert('JAWABAN KAMU BENAR! Kamu akan lanjut ke stage berikutnya');
     } else if (userInput5 != computerInput5) {
@@ -65,7 +65,7 @@ while(repeat) {
   var UI_6 = true;
   while(UI_6 <= 3) {
     var computerInput6 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput6 = prompt('MASUKAN ANGKA PIN KEENAM (1-9)\n\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
+    var userInput6 = prompt('MASUKAN ANGKA PIN KEENAM (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
     if (userInput6 == computerInput6) {
       UI_6 = alert('JAWABAN KAMU BENAR! Kamu akan lanjut ke stage berikutnya');
     } else if (userInput6 != computerInput6) {
@@ -76,7 +76,7 @@ while(repeat) {
   var UI_7 = true;
   while(UI_7 <= 3) {
     var computerInput7 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput7 = prompt('MASUKAN ANGKA PIN KETUJUH (1-9)\n\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
+    var userInput7 = prompt('MASUKAN ANGKA PIN KETUJUH (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
     if (userInput7 == computerInput7) {
       UI_7 = alert('JAWABAN KAMU BENAR! Kamu akan lanjut ke stage berikutnya');
     } else if (userInput7 != computerInput7) {
@@ -87,7 +87,7 @@ while(repeat) {
   var UI_8 = true;
   while(UI_8 <= 3) {
     var computerInput8 = randomAngka(1,2,3,4,5,6,7,8,9);
-    var userInput8 = prompt('MASUKAN ANGKA PIN TERAKHIR (1-9)\n\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
+    var userInput8 = prompt('MASUKAN ANGKA PIN TERAKHIR (angka 1-9)\nNOTE : MASUKAN HANYA ANGKA! & Kamu punya 3 kesempatan');
     if (userInput8 == computerInput8) {
       UI_8 = alert('JAWABAN KAMU BENAR!');
     } else if (userInput8 != computerInput8) {
