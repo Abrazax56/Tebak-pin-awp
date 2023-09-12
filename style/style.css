@@ -119,8 +119,6 @@ footer {
   width: 100%;
   background-color: rgba(0, 205, 255, 1);
   bottom: 0;
-  position: absolute;
-  z-index: 2;
   padding: var(--f_9) 0;
 }
 .footer {
